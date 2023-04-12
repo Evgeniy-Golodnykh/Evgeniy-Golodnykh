@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋 , I'm [Evgeniy](https://www.github.com/Evgeniy-Golodnykh)
 
-<!--
-**Evgeniy-Golodnykh/Evgeniy-Golodnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a versatile developer, with experience in building web platforms.
+I like accessibility, performance and robust code.
 
-Here are some ideas to get you started:
+```python
+class WhoAmI:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = 'Evgeniy Golodnykh'
+        self.position = 'Python Developer'
+        self.current_work = 'Writing code'
+        self.web = 'https://www.github.com/Evgeniy-Golodnykh'
+        self.code = {
+            'backend': ['Python', 'Django', 'FastAPI'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+            'devops': ['Docker', 'Linux', 'GitHub Actions'],
+            'tools': ['GIT', 'GitHub', 'Jupyter notebook', 'Nginx'],
+            'misc': ['Cloud.Yandex', 'Cloud.Reg', 'SCRUM', 'SOLID']
+        }
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = WhoAmI()
+    print(me)
+```
