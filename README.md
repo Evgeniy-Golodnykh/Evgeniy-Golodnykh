@@ -1,7 +1,6 @@
 ### Hi there 👋 , I'm [Evgeniy](https://www.github.com/Evgeniy-Golodnykh)
 
-I'm a versatile developer, with experience in building web platforms.
-I like accessibility, performance and robust code.
+#### I'm a versatile developer, with experience in building web platforms. I like accessibility, performance and robust code.
 
 ```python
 class WhoAmI:
