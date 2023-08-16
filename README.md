@@ -18,7 +18,7 @@ class WhoAmI:
             'misc': [
                 'Cloud.Yandex', 'Cloud.Reg', 'SCRUM', 'SOLID',
                 'Synology Virtual Machine Manager', 'Synology Container Manager'
-            ]
+            ],
         }
 
     def __str__(self):
