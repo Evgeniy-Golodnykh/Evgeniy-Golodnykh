@@ -15,7 +15,10 @@ class WhoAmI:
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Jupyter notebook', 'Nginx'],
-            'misc': ['Cloud.Yandex', 'Cloud.Reg', 'SCRUM', 'SOLID', 'Synology Virtual Machine Manager', 'Synology Container Manager']
+            'misc': [
+                'Cloud.Yandex', 'Cloud.Reg', 'SCRUM', 'SOLID',
+                'Synology Virtual Machine Manager', 'Synology Container Manager'
+            ]
         }
 
     def __str__(self):
