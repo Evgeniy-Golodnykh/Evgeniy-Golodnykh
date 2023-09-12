@@ -11,7 +11,7 @@ class WhoAmI:
         self.current_work = 'Writing code'
         self.web = 'https://www.github.com/Evgeniy-Golodnykh'
         self.code = {
-            'backend': ['Python', 'Django', 'FastAPI'],
+            'backend': ['Python', 'Django', 'FastAPI', 'Flask'],
             'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Jupyter notebook', 'Nginx'],
