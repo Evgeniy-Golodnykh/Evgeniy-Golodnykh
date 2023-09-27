@@ -12,7 +12,7 @@ class WhoAmI:
         self.web = 'https://www.github.com/Evgeniy-Golodnykh'
         self.code = {
             'backend': ['Python', 'Django', 'FastAPI', 'Flask'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3'],
+            'database': ['PostgreSQL', 'MongoDB', 'SQLite'],
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Jupyter notebook', 'Nginx'],
             'misc': [
