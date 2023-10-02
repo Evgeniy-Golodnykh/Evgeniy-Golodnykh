@@ -16,7 +16,7 @@ class WhoAmI:
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Jupyter notebook', 'Nginx'],
             'misc': [
-                'Cloud.Yandex', 'Cloud.Reg', 'SCRUM', 'SOLID', 'Google API',
+                'SCRUM', 'SOLID', 'Cloud.Yandex', 'Cloud.Reg', 'Google API',
                 'Synology Virtual Machine Manager', 'Synology Container Manager'
             ],
         }
