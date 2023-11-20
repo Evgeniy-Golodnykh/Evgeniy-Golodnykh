@@ -11,13 +11,13 @@ class WhoAmI:
         self.current_work = 'Writing code'
         self.web = 'https://www.github.com/Evgeniy-Golodnykh'
         self.code = {
-            'backend': ['Python', 'Django', 'FastAPI', 'Flask'],
+            'backend': ['Python', 'Django', 'FastAPI', 'Flask', 'Quart'],
             'database': ['PostgreSQL', 'MongoDB', 'SQLite'],
             'devops': ['Docker', 'Linux', 'GitHub Actions'],
             'tools': ['GIT', 'GitHub', 'Jupyter notebook', 'Nginx'],
             'misc': [
-                'SCRUM', 'SOLID', 'Cloud.Yandex', 'Cloud.Reg', 'Google API',
-                'Synology Virtual Machine Manager', 'Synology Container Manager'
+                'SCRUM', 'SOLID', 'Cloud.Yandex', 'Cloud.Reg', 'Google API', 'ChatGPT API',
+                'YandexGPT API', 'Synology Virtual Machine Manager', 'Synology Container Manager'
             ],
         }
 
