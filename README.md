@@ -29,9 +29,9 @@ if __name__ == '__main__':
     me = WhoAmI()
     print(me)
 ```
-_________________
-### Stats
-
+>
+>>
+### Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&show_icons=true&theme=dark)  
 >
 ![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small)  
