@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm [Evgeniy](https://www.github.com/Evgeniy-Golodnykh)
+## Hi there 👋 , I'm [Evgeniy](https://www.github.com/Evgeniy-Golodnykh)
 
 #### I'm a versatile developer, with experience in building web platforms. I like accessibility, performance and robust code.
 
@@ -30,10 +30,7 @@ if __name__ == '__main__':
     print(me)
 ```
 
->
->
->
-### Stats  
+## Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&show_icons=true&theme=dark)  
 >
 ![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small)  
