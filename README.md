@@ -30,5 +30,5 @@ if __name__ == '__main__':
     print(me)
 ```
 #### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&show_icons=true&theme=dark)  
 ![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small)
