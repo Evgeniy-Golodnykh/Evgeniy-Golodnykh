@@ -29,8 +29,6 @@ if __name__ == '__main__':
 ```
 
 ## A little bit of statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&theme=dark&hide_border=true&bg_color=303133&title_color=dedede&text_color=a0a0a0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&theme=dark&hide_border=true&bg_color=303133&title_color=dedede&text_color=a0a0a0&card_width=390&hide=mako)
 >
-![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small)
->
-![Profile views](https://komarev.com/ghpvc/?username=Evgeniy-Golodnykh&base=721&color=grey)
+![Visitors](https://visitor-badge.lithub.cc/badge?page_id=Evgeniy-Golodnykh.visitor-badge&left_color=303133&right_color=303133&left_text=Visitors) ![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small)
