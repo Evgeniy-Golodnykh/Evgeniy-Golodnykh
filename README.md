@@ -30,5 +30,7 @@ if __name__ == '__main__':
 
 ## A little bit of statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&show_icons=true&theme=dark)
+>
 ![Profile views](https://komarev.com/ghpvc/?username=Evgeniy-Golodnykh&base=721&color=grey&style=for-the-badge)
+>
 ![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small)
