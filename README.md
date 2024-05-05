@@ -2,7 +2,7 @@
 
 #### I'm a versatile developer, with experience in building web platforms. I like accessibility, performance and robust code.
 
-```python
+```python hl_lines="4 5"
 class WhoAmI:
 
     def __init__(self):
