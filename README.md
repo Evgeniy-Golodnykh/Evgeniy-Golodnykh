@@ -29,8 +29,8 @@ if __name__ == '__main__':
 ```
 
 ## A little bit of statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Evgeniy-Golodnykh&show_icons=true&theme=dark&hide_border=true&hide=stars&rank_icon=github&bg_color=303133&title_color=dedede&text_color=a0a0a0&custom_title=Github+Stats&text_bold=false&icon_color=feb000&ring_color=feb000&card_width=387)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Evgeniy-Golodnykh&show_icons=true&theme=dark&hide_border=true&hide=stars&rank_icon=github&bg_color=303133&title_color=dedede&text_color=a0a0a0&custom_title=Github+Stats&text_bold=false&icon_color=feb000&ring_color=feb000&card_width=437)
 >
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&theme=dark&hide_border=true&bg_color=303133&title_color=dedede&text_color=a0a0a0&hide=mako&custom_title=Top+Languages&card_width=387)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&theme=dark&hide_border=true&bg_color=303133&title_color=dedede&text_color=a0a0a0&hide=mako&custom_title=Top+Languages&card_width=437)
 >
-![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small) ![Visitors](https://visitor-badge.lithub.cc/badge?page_id=Evgeniy-Golodnykh.visitor-badge&left_color=303133&right_color=1d1d1f&left_text=Visitors)
+![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small) [![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEvgeniy-Golodnykh&count_bg=%231D1D1F&title_bg=%23303133&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
