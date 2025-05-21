@@ -33,4 +33,4 @@ if __name__ == '__main__':
 >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evgeniy-Golodnykh&layout=compact&theme=dark&hide_border=true&bg_color=303133&title_color=dedede&text_color=a0a0a0&hide=mako&custom_title=Top+Languages&card_width=437)
 >
-![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small) [![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEvgeniy-Golodnykh&count_bg=%231D1D1F&title_bg=%23303133&icon=postwoman.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![Codewars](https://www.codewars.com/users/Evgeniy-Golodnykh/badges/small) ![Visitors](https://komarev.com/ghpvc/?username=evgeniy-golodnykh&label=Visitors&color=1d1d1f&abbreviated=true&base=1111)
